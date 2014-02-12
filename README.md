@@ -1,4 +1,4 @@
 sf2test1
 ========
 
-sf2test
+some project testing
